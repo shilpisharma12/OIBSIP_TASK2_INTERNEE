@@ -23,4 +23,4 @@ To configure a basic firewall on a Linux system using UFW:
 - README.md – This file
 
 ## Author:
-Ravi Prakash Kushwaha# OIBSIP_Task2
+Shilpi Sharma # OIBSIP_Task2
